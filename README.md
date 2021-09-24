@@ -1,6 +1,6 @@
 # Advanced-statistical-concepts
 
-The repository conatains some advanced statistical concepts like:
+The repository conatains python based implementation of some advanced statistical concepts like:
 
 1. Q-Q(quantile-quantile) Plots
 2. Chebyshev's Inequality
