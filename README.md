@@ -1,4 +1,4 @@
-# Advanced-statistical-concepts
+# Advanced statistical concepts
 
 The repository conatains python implementation of some advanced statistical concepts like:
 
@@ -9,4 +9,4 @@ The repository conatains python implementation of some advanced statistical conc
 5. Box cox transformation
 6. Poisson distribution
 
-For more information on all the above statistical concepts please visit [theaidream.com](https://www.theaidream.com/post/advanced-statistical-concepts-in-data-science)
+For more information on all the above statistical concepts please visit [theaidream.com](https://www.theaidream.com/post/advanced-statistical-concepts-in-data-science).
